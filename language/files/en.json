@@ -702,6 +702,11 @@
 		"Sets whether *all players*",
 		"share the same *health*"
 	],
+	"item-synced-xp-setting": [
+		"§cSynced Experience",
+		"Sets whether *all players*",
+		"share the same *xp*"
+	],
 	"item-old-pvp-setting": [
 		"§b1.8 PvP",
 		"The *old 1.8 PvP System* will be used",
