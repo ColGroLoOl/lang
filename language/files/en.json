@@ -561,6 +561,11 @@
 		"The *hearts* of all players",
 		"will be showed in the *tablist*"
 	],
+	"item-xp-display-setting": [
+		"§cExperience Display",
+		"The *levels* of all players",
+		"will be showed in the *tablist*"
+	],
 	"item-position-setting": [
 		"§9Positions",
 		"Allows you to mark *positions*",
